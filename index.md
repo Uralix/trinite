@@ -1,6 +1,6 @@
 La Trinité | School Spirit          
 
-[La Trinité](#)
+[La Trinité | Website by Benjamin Bonneton & Ivan Hamelin](#)
 
 *   [Home](#home)
 *   [Events](#event)
